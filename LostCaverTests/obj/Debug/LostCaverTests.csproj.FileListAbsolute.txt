@@ -1,0 +1,7 @@
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\bin\Debug\LostCaverTests.dll
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\bin\Debug\LostCaverTests.pdb
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\bin\Debug\LostCaver.exe
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\bin\Debug\LostCaver.pdb
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\obj\Debug\LostCaverTests.csprojResolveAssemblyReference.cache
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\obj\Debug\LostCaverTests.dll
+C:\Users\tyler\documents\visual studio 2012\Projects\LostCaver\LostCaverTests\obj\Debug\LostCaverTests.pdb
